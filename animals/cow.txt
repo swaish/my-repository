@@ -1,0 +1,15 @@
+i am a cow 
+i give milk
+i eat grass
+
+
+vi cow.txt
+clear
+git clear
+fjjhjdfhjhdfjhfhjdhfjdhfhdjfhd
+dhfjdhfjdfhjdh
+:wq`
+
+
+ncnvncvn
+git help
